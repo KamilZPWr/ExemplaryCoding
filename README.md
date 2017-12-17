@@ -10,6 +10,4 @@ waluty.py 			-> https://github.com/KamilZPWr/Kursy_walut
 
 MainAtivity_Hangman.kt 		-> https://github.com/KamilZPWr/Hangman-FullApp
 
-MainAtivity_OMatKo.kt		-> https://github.com/KamilZPWr/OMatKo/tree/schedule_fragment_genereted
-
 GiveWord.kt 				-> https://github.com/KamilZPWr/Hangman-FullApp
